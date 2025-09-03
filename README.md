@@ -4,7 +4,7 @@ This repo contains the abstract and the presentation of my thesis work on a rout
 
 ## Main technologies used:
 - Backend: ***C#***, ***.NET Core***
-- Frontend: ***React*** with ***JavaScript***
+- Frontend: ***React*** with ***JavaScript***, ***HTML***, ***CSS***
 - ***Neo4j*** graph database
 - ***REST API*** for internal communication
 - ***Python*** (Jupyter Notebook) for processing OSM geospatial data and populating the database
